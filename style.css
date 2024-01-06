@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: neu;
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+#main{
+    position: relative;
+}
+#page1{
+    height: 100vh;
+    position: relative;
+    width: 100%;
+    background-color: red;
+
+}
+nav{
+}
+#page2{
+    height: 100vh;
+    position: relative;
+    width: 100%;
+    background-color: blue;
+
+}
